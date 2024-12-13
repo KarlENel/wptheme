@@ -1,0 +1,21 @@
+/*
+Theme Name: KMS23Theme
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Author: Karl
+Author URI: https://wordpress.org/
+Description: Coolness
+Requires at least: 5.3
+Tested up to: 6.7
+Requires PHP: 5.6
+Version: 2.4
+License: WTFPL
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: kms23
+Tags: test, cool, awsome
+
+Some cool copyright 2024
+*/
+
+body {
+    background-color: coral
+}
